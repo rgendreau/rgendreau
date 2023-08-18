@@ -1,4 +1,4 @@
-### Hi there 👋  This repo and README are urrently part of a training exercise.
+### Hi there 👋  This repo and README are currently part of a training exercise.
 
 <!--
 **rgendreau/rgendreau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
